@@ -23,15 +23,15 @@ The system stores detailed information about publicly traded companies, their st
 
 #### Example Visualization of Company Nodes
 
-![Company Nodes](Week-3\images\companies.jpg)
+![Company Nodes](Week-3/images/companies.jpg)
 
 *This image shows the nodes representing various companies in the database.*
 
 #### Example Visualization of Stock Price Relationships
 
-![Stock Price Relationships](Week-3\images\Relationship.jpg)
+![Stock Price Relationships](Week-3/images/Relationship.jpg)
 
-*This image illustrates the relationships between  and their stock price data.*
+*This image illustrates the relationships between companies and their stock price data.*
 
 ### Conclusion
 
