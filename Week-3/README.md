@@ -10,7 +10,7 @@ The **Financial Market Analysis System** aims to develop a robust solution for r
 
 The system stores detailed information about publicly traded companies, their stock prices, and related financial metrics. Below is a summary of the data structure and the relationships represented in the graph database.
 
-*Apple, Microsoft, Tesla,Alphabet (Google), Amazon.com, Meta Platforms(Facebook), Netflix, NVIDIA Corporation, JPMorgan ,Visa Inc* 
+*Apple, Microsoft, Tesla,Alphabet (Google), Amazon.com, Meta Platforms(Facebook), Netflix, NVIDIA Corporation, JPMorgan .* 
 
 ### Database Information
 
