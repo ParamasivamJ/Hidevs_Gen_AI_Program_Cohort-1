@@ -25,7 +25,7 @@ The system stores detailed information about publicly traded companies, their st
 
 #### Example Visualization of Company Nodes
 
-![Company Nodes](Week-3/images/companies.jpg)
+![Company Nodes](images/companies.jpg)
 
 *This image shows the nodes representing various companies in the database.*
 
