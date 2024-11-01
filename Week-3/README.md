@@ -10,6 +10,8 @@ The **Financial Market Analysis System** aims to develop a robust solution for r
 
 The system stores detailed information about publicly traded companies, their stock prices, and related financial metrics. Below is a summary of the data structure and the relationships represented in the graph database.
 
+*Apple, Microsoft, Tesla,Alphabet (Google), Amazon.com, Meta Platforms(Facebook), Netflix, NVIDIA Corporation, JPMorgan ,Visa Inc* 
+
 ### Database Information
 
 - **Total Nodes:** 2,274
@@ -23,7 +25,7 @@ The system stores detailed information about publicly traded companies, their st
 
 #### Example Visualization of Company Nodes
 
-![Company Nodes](images/companies.jpg)
+![Company Nodes](Week-3/images/companies.jpg)
 
 *This image shows the nodes representing various companies in the database.*
 
