@@ -1,16 +1,22 @@
-
 # Financial Market Analysis System
 
 ## Overview
 
 The **Financial Market Analysis System** aims to develop a robust solution for retrieving and analyzing financial market data using memory and knowledge graphs. This system facilitates multi-query tasks, empowering users to explore historical stock data and derive insights through a comprehensive dashboard interface.
 
+## Features
+
+- **Data Retrieval and Storage**: Fetches historical stock data for companies using the Yahoo Finance API and stores it in a Neo4j graph database for structured analysis.
+- **Graph Database**: Stores company and stock price data in Neo4j, enabling efficient and structured queries over time-series financial data.
+- **Conversational Interaction with Memory**: Incorporates memory to retain context from past queries, allowing follow-up questions and interactions to build on previous responses.
+- **Natural Language Generation**: Uses a pre-trained BART model to generate conversational responses, creating a seamless, human-like interaction for financial data retrieval.
+- **Colab-Friendly Environment**: Designed for execution on Google Colab, with easy setup and cloud-based environment compatibility.
 
 ## Data Stored in the Graph Database
 
 The system stores detailed information about publicly traded companies, their stock prices, and related financial metrics. Below is a summary of the data structure and the relationships represented in the graph database.
 
-*Apple, Microsoft, Tesla,Alphabet (Google), Amazon.com, Meta Platforms(Facebook), Netflix, NVIDIA Corporation, JPMorgan .* 
+*Apple, Microsoft, Tesla, Alphabet (Google), Amazon.com, Meta Platforms (Facebook), Netflix, NVIDIA Corporation, JPMorgan.*
 
 ### Database Information
 
@@ -39,13 +45,5 @@ The system stores detailed information about publicly traded companies, their st
 
 The Financial Market Analysis System is designed to offer users a powerful tool for interacting with financial data. By leveraging memory and knowledge graphs, the system not only provides insights into historical data but also enhances the analysis process, allowing for a deeper understanding of the financial landscape.
 
-## Getting Started
 
-1. Clone the repository.
-2. Ensure you have Neo4j set up and running.
-3. Load the data into the Neo4j database using the provided APIs.
-4. Run the application and start exploring the financial market data.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
