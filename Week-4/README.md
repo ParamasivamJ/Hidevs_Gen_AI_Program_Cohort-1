@@ -23,8 +23,10 @@ We also log the performance and tracing data of the model using **Langsmith** fo
 ### Trace Count:
 - **Number of traces**: Indicates the number of distinct processes initiated.
 ![Langsmith Trace](assets/Trace_count.png)
+
 - **LLM Call Count**: Tracks the number of times the LLM (Language Model) was called.
 ![Langsmith Trace](assets/llm_call_count.png)
+
 - **Trace Success Rates**: Percentage of successful traces out of total traces. This helps gauge system reliability.
 ![Langsmith Trace](assets/Trace_success_rates.png)
 
