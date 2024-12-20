@@ -41,4 +41,3 @@ The system follows a Retrieval-Augmented Generation (RAG) approach, which combin
 ## Conclusion
 The combination of embedding models, a vector database, and a large language model enables this product recommendation system to deliver relevant and informative suggestions, enhancing the overall user experience.
 
-l
